@@ -1,15 +1,15 @@
 # documenting-works / themensammlung
 
-### liste von offline formaten
-
-- buch
-- künstlerkatalog
-
-### liste von online formaten
-
-- website
-- showreel
-- …
+- @question(discuss the relation between text + image/video in documentations)
+- @question(honesty and documentations ( e.g how much photoshop is legitimate ))
+- @question(should you publish your documentation if the work *is* the documentation ( i.e werbart, video art ))
+- @question(how are works/projects ordered? chronological, medium, by analogy, (interactive: let user decide))
+- @question(*meta data* of works ( e.g awards, exhibitions, client, budget, materials, tools/hardware/software ))
+- related formats:
+    - technical rider
+    - project sketch / project funding application
+    - showreel
+- 
 
 ## when, where and how to release a documentation?
 
