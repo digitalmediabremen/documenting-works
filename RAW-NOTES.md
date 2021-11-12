@@ -1,28 +1,5 @@
 # documenting-works / themensammlung
 
-## context or no context? what is the role of the context in which a work is documented?
-
-- the typical extrem: the white space/cube, super clean product photography
-- the other end of the spectrum: schnappschüsse aus dem *normalen* leben
-
-## comparing exhibiting and documentating
-
-- es gibt offensichtlich eine beziehung zwischen dem aufbauen/ausstellen und dem dokumentieren
-- normalerweise wird erst ausgestellt/aufgeführt und ( das ) dann dokumentiert
-- allerdings muss die dokumentation nicht immer an zweiter stelle stehen @REF(Luiz Zanotello: The Aerographer)
-- @REF(luiz zanotello) "eine veröffentlichte online dokumentation kann auch der anlass für eine einladung zu einem zu einer ausstellung oä sein durch die man dann ein produktionsbudget bekommt um eine zweite version der arbeit zu bauen … und diese dann wieder zu dokumentieren"
-
-## adding non directly work related material to the documentation
-
-- is it ok to put material in a documentation that is not directly part of the work
-- e.g photographs of situations that were inspirations
-- e.g other people s works
-- e.g interviews with artist or others talking about the work
-
-## comparing offline and online documentations
-
-reflections on the qualities of offline documentations compared to online documentations.
-
 ### liste von offline formaten
 
 - buch
